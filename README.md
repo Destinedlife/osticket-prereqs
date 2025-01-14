@@ -172,4 +172,8 @@ and these link to login as a Enduser.
 
 http://localhost/osTicket/ 
 
+For osTicket Post-install configuration follow this link:
+
+[osTicket - Post-Install Configuration](https://github.com/Destinedlife/post-install-config)
+
 <br />
