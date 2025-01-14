@@ -172,8 +172,15 @@ and this link to login as a Enduser.
 
 http://localhost/osTicket/ 
 
-For osTicket Post-install configuration follow this link:
+For of osTicket Post-install configuration follow this link:
 
 [osTicket - Post-Install Configuration](https://github.com/Destinedlife/post-install-config)
 
+If you want take a break and save money in your azure account 
+
+disconnect from your VM
+
+Go back to Azure portal > Viritual maschine then select your VM and click stop.
+
+When you are ready to continue select start on this page.
 <br />
