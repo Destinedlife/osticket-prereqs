@@ -164,11 +164,11 @@ YAY!!! hopefully you have successfully install osticket.
 
 
 <p>
-you can use this links to login as admin 
+you can use this link to login as admin 
 
   http://localhost/osTicket/scp/login.php
 
-and these link to login as a Enduser.
+and this link to login as a Enduser.
 
 http://localhost/osTicket/ 
 
